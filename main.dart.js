@@ -41963,7 +41963,7 @@ $C:"$0",
 $R:0,
 $S:0}
 K.Dk.prototype={
-$0:function(){C.P.fe(window,"https://www.baidu.com","Pk")},
+$0:function(){C.P.fe(window,"https://www.ifeng.com","Pk")},
 $C:"$0",
 $R:0,
 $S:0}
