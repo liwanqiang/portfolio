@@ -227,7 +227,7 @@ class ProfileInfo extends StatelessWidget {
             child: Text("Google Play!"),
             color: Colors.red,
             onPressed: () {
-              html.window.open("https://pawan.live", "Pk");
+              html.window.open("https://www.ifeng.com", "Pk");
             },
             padding: EdgeInsets.all(10),
           )
