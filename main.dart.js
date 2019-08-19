@@ -41953,7 +41953,7 @@ if(u<800){u=F.bm(a,!1).a.b
 if(typeof u!=="number")return u.p()
 u*=0.25}else{u=F.bm(a,!1).a.a
 if(typeof u!=="number")return u.p()
-u*=0.25}return M.jS(t,t,t,t,S.jN(C.e9,t,t,t,C.ot,t,new X.m0(new L.pi("liwanqiang.jpg"),C.ed,C.aq),C.ag),t,s,t,t,t,u)},
+u*=0.25}return M.jS(t,t,t,t,S.jN(C.e9,t,t,t,C.ot,t,new X.m0(new L.pi("pk.jpg"),C.ed,C.aq),C.ag),t,s,t,t,t,u)},
 O:function(a){var u=this.c,t=[N.ag],s=T.kK(H.h([this.xH(a),u],t),C.ak,C.dk,C.a3),r=this.xH(a),q=F.bm(a,!1).a.b
 if(typeof q!=="number")return q.p()
 return B.ru(s,T.xt(H.h([r,new T.dc(null,q*0.1,null,null),u],t),C.ak,C.c2,C.a3))}}
