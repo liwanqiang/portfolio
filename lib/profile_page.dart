@@ -165,7 +165,7 @@ class ProfileInfo extends StatelessWidget {
           color: Colors.deepOrange,
           shape: BoxShape.circle,
           image: DecorationImage(
-            image: AssetImage("pk.jpg"),
+            image: AssetImage("liwanqiang.jpg"),
             alignment: Alignment.center,
             fit: BoxFit.cover,
           ),
@@ -181,7 +181,7 @@ class ProfileInfo extends StatelessWidget {
         style: TextStyle(color: Colors.orange),
       ),
       Text(
-        "艾尔伯特\n爱因斯坦",
+        "以为是个青铜\n结果是个王者",
         textScaleFactor: 5,
         style: TextStyle(
           color: Colors.white,
@@ -227,7 +227,7 @@ class ProfileInfo extends StatelessWidget {
             child: Text("Google Play!"),
             color: Colors.red,
             onPressed: () {
-              html.window.open("https://www.ifeng.com", "Pk");
+              html.window.open("https://www.qq.com", "Pk");
             },
             padding: EdgeInsets.all(10),
           )
